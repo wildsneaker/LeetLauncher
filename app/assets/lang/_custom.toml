@@ -5,12 +5,12 @@ title = "Leet Launcher"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/wildsneaker/LeetLauncher"
-mediaGiftURL = "https://www.youtube.com/watch?v=E4WlUXrJgy4"
-mediaDiscordURL = "https://discord.gg/zNWUXdt"
+mediaGiftURL = "https://youtu.be/wz5IA30Lng4?si=tzOjHz3i-dgYcoGw"
+mediaDiscordURL = "https://discord.com/channels/673859724055150602/1299406627098591313"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/dscalZi/LeetLauncher"
-supportLink = "https://github.com/dscalZi/LeetLauncher/issues"
+sourceGithubLink = "https://github.com/wildsneaker/LeetLauncher"
+supportLink = "https://github.com/wildsneaker/LeetLauncher/issues"
 
 [ejs.welcome]
 welcomeHeader = "WE1COM3 T0 1EE7 CAMUN17Y"
